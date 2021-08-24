@@ -33,10 +33,10 @@ Email: jjumadinova@allegheny.edu
 
 |Session  |Day           |Time             |Location   |
 |---------|--------------|-----------------|-----------|
-|Class    |Monday        |11:30am - 12:20pm|ALIC  |
-|Class    |Wednesday     |11:30am - 12:20pm|ALIC  |
-|Lab      |Wednesday     |3:00pm - 4:50pm  |ALIC  |
-|Class    |Friday        |11:30am - 12:20pm|ALIC  |
+|Class    |Monday        |11:30am - 12:20pm|ALIC 106   |
+|Class    |Wednesday     |11:30am - 12:20pm|ALIC 106   |
+|Lab      |Wednesday     |3:00pm - 4:50pm  |ALIC 106   |
+|Class    |Friday        |11:30am - 12:20pm|ALIC 106   |
 
 ### Discord
 
@@ -80,11 +80,14 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 #### Grading
 
-Participation
-Labs
-Exams
-Project
-
+|Category             |Percentage |Assessment metric|
+|---------------------|-----------|-----------------|
+|Class Activities     |20%        |check mark grade |
+|Conceptual Challenges|25%        |check mark grade |
+|Lab Assignments      |35%        |letter grade     |
+|Course project       |20%        |letter grade     |
+|                     |           |                 |
+|Total                |100%       |                 |
 
 #### Grading scale
 
@@ -98,11 +101,11 @@ Project
 
 #### Class activities
 
-All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams).
+All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams). You will receive a checkmark grade (1) if you complete more than 70% of the activity; otherwise you will reeive a 0.
 
-#### Exams
+#### Conceptual Challenges
 
-The first and second  examinations will cover all of the material in their associated module(s). While the second  examination is not cumulative, it  will assume that a student has a basic understanding of the material that was the focus of the previous examination. Unless prior arrangements are made with the course instructor, all students will be expected to take these examinations on the scheduled date as specified on the course schedule.
+At the end of each week (starting with week 2), students will receive one problem, often containing subparts, to solve. These challenge problems are conceptual in nature and do not require any programming.
 
 #### Lab assignments
 
@@ -110,7 +113,7 @@ Lab assignments invite students to explore different techniques for designing, i
 
 #### Course project
 
-This project will present you with an opportunity to design and implement a correct and carefully evaluated intelligent system for a particular problem. 
+This project will present you with an opportunity to design and implement a correct and carefully evaluated intelligent system for a particular problem. You will select an application for an intelligent system that you would like to pursue.
 
 #### Assignment submission
 
