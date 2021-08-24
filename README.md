@@ -80,6 +80,11 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 #### Grading
 
+Participation
+Labs
+Exams
+Project
+
 
 #### Grading scale
 
@@ -95,13 +100,17 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams).
 
+#### Exams
+
+The first and second  examinations will cover all of the material in their associated module(s). While the second  examination is not cumulative, it  will assume that a student has a basic understanding of the material that was the focus of the previous examination. Unless prior arrangements are made with the course instructor, all students will be expected to take these examinations on the scheduled date as specified on the course schedule.
+
 #### Lab assignments
 
-Lab assignments will contain challenges that incorporate specific course concepts. Lab assignments will feature individual or team work, and are graded on completion, completeness, and correctness. 
+Lab assignments invite students to explore different techniques for designing, implementing, evaluating, and documenting software solutions to challenging problems that often have a connection to real-world concerns.  To best ensure that students are ready to develop software in both other classes at Allegheny College and after graduation, students will complete most of the lab assignments in teams. The evaluation for each lab assignment will include a code review, demonstration, and performance assessment. 
 
 #### Course project
 
-Course project provides students with an opportunity to develop a reasonably complex student-created project. Completion of this project will require use of the knowledge accumulated throughout the semester and will require planning, careful evaluation, and implementation of a wide variety of concepts.
+This project will present you with an opportunity to design and implement a correct and carefully evaluated intelligent system for a particular problem. 
 
 #### Assignment submission
 
