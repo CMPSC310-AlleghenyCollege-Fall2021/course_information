@@ -70,7 +70,7 @@ At the completion of this class, a student must be comfortable with the fundamen
 
 ### Schedule
 
-Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change.
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
