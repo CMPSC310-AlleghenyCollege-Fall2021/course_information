@@ -35,7 +35,7 @@ Email: jjumadinova@allegheny.edu
 |---------|--------------|-----------------|-----------|
 |Class    |Monday        |11:30am - 12:20pm|ALIC 106   |
 |Class    |Wednesday     |11:30am - 12:20pm|ALIC 106   |
-|Lab      |Wednesday     |3:00pm - 4:50pm  |ALIC 106   |
+|Lab      |Wednesday     |3:00pm - 4:50pm  |ALIC 104   |
 |Class    |Friday        |11:30am - 12:20pm|ALIC 106   |
 
 ### Discord
@@ -50,7 +50,7 @@ Please add the [course Google calendar](https://calendar.google.com/calendar/u/0
 
 A study of the design and implementation of intelligent computer systems that can learn, plan, and solve problems autonomously. In addition to examining techniques for designing intelligent software agents, students investigate the social, political, and ethical implications of intelligent systems. Through hands-on activities that often require team-work, students explore the application of artificial intelligence methods in areas such as computer vision, natural language processing, and video game development. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations.
 
-Prerequisite: CMPSC 101.
+Prerequisite: CMPSC 102.
 
 Distribution Requirements: QR, SP.
 
@@ -72,9 +72,24 @@ At the completion of this class, a student must be comfortable with the fundamen
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-|Week # |Dates           |Topic                             |Activities/Assignments      |
-|-------|----------------|----------------------------------|----------------------------|
-
+|Week # |Dates           |Topic                                         |Activities/Assignments      |
+|-------|----------------|----------------------------------------------|----------------------------|
+|1      |Aug. 23-27      |Intro to AI.                                  |Community Guidelines, notes.|
+|2      |Aug. 30 - Sep. 3|Agents.                                       |                            |
+|3      |Sep. 6-10       |Agents. Arduino. Algorithms in AI.            |                            |
+|4      |Sep. 13-17      |Learning.                                     |                            |
+|5      |Sep. 20-24      |Computer Vision.                              |                            |
+|6      |Sep. 27 - Oct. 1|Probability Fundamentals. Bayes Theory.       |                            |
+|7      |Oct. 4-8        |Natural Language Processing. Neural Networks. |                            |
+|8      |Oct. 11-15      |Deep Learning in NLP.                         |                            |
+|9      |Oct. 18-22      |Deep Learning. No class on Oct. 21.           |                            |
+|10     |Oct. 25-29      |Unsupervised Learning.                        |                            |
+|11     |Nov. 1-5        |Planning in Games. No class on Nov. 2.        |                            |
+|12     |Nov. 8-12       |Planning. Logical AI.                         |                            |
+|13     |Nov. 15-19      |Logical AI.                                   |                            |
+|14     |Nov. 22-26      |Thanksgiving break.                           |                            |
+|15     |Nov. 29 - Dec. 3|Future of AI.                                 |                            |
+|16     |Dec. 6-10       |Summary.                                      |                            |
 
 ### Policies
 
