@@ -74,7 +74,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
-|1      |Aug. 23-27      |Intro to AI.                                  |Community Guidelines, notes.|
+|1      |Aug. 23-27      |Intro to AI.                                  |Community Guidelines. Moral Machine|
 |2      |Aug. 30 - Sep. 3|Agents.                                       |                            |
 |3      |Sep. 6-10       |Agents. Arduino. Algorithms in AI.            |                            |
 |4      |Sep. 13-17      |Learning.                                     |                            |
