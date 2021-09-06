@@ -75,9 +75,9 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
 |1      |Aug. 23-27      |Intro to AI.                                  |Community Guidelines. Moral Machine.|
-|2      |Aug. 30 - Sep. 3|Agents. Arduino.                               |Activities 1-3. Lab 1. Read [Smarts Machines and AI](https://insight.ieeeusa.org/articles/smart-machines-artificial-intelligence/). Read sections 1.3-1.5, 2.1-2.2 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook.|
-|3      |Sep. 6-10       |Algorithms in AI.                             | Continue Lab 1.                           |
-|4      |Sep. 13-17      |Learning.                                     |                            |
+|2      |Aug. 30 - Sep. 3|Agents. Arduino.                               |Activities 1-3. Lab 1 Released. Challenge Problem 1 DUE Sep. 6. Read [Smarts Machines and AI](https://insight.ieeeusa.org/articles/smart-machines-artificial-intelligence/). Read sections 1.3-1.5, 2.1-2.2 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook.|
+|3      |Sep. 6-10       |Algorithms in AI.                             | Continue Lab 1.  Read sections 3.1-3.6 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook.                           |
+|4      |Sep. 13-17      |Learning.                                     | Lab 1 DUE Sep. 15                           |
 |5      |Sep. 20-24      |Computer Vision.                              |                            |
 |6      |Sep. 27 - Oct. 1|Probability Fundamentals. Bayes Theory.       |                            |
 |7      |Oct. 4-8        |Natural Language Processing. Neural Networks. |                            |
