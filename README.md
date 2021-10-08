@@ -80,12 +80,12 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |4      |Sep. 13-17      |Introduction to Learning. Computer Vision.    | Challenge Problem 2 DUE Sep. 13. Lab 1 DUE Sep. 15. Activities 5-7. Read Practical Open CV 1 handout in [course materials](https://github.com/CMPSC310-AlleghenyCollege-Fall2021/course_materials).|
 |5      |Sep. 20-24      |Supervised Learning. OpenCV.  | Activities 8-9. Read Practical Open CV 2 handout in [course materials](https://github.com/CMPSC310-AlleghenyCollege-Fall2021/course_materials) on OpenCV.|
 |6      |Sep. 27 - Oct. 1|Supervised Learning in Computer Vision. Object Detection. | Activities 10-11. Lab 2 Released. Read sections 7.1-7.3 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook.|
-|7      |Oct. 4-8        |Probability Fundamentals. Bayes Theory.  Neural Networks. | Continue Lab 2. Activity 12. Read section 2.6 from the [Dive into Deep Learning textbook](https://d2l.ai/chapter_preliminaries/probability.html)|
-|8      |Oct. 11-15      |Natural Language Processing. Deep Learning in NLP.                         | Lab 2 DUE October 13th.|
-|9      |Oct. 18-22      |Deep Learning. No class on Oct. 21.           |                            |
-|10     |Oct. 25-29      |Unsupervised Learning.                        |                            |
-|11     |Nov. 1-5        |Planning in Games. No class on Nov. 2.        |                            |
-|12     |Nov. 8-12       |Planning. Logical AI.                         |                            |
+|7      |Oct. 4-8        |Probability Fundamentals. Bayes Theory.  Neural Networks. | Continue Lab 2. Activity 12. Read section 2.6 from the [Dive into Deep Learning textbook](https://d2l.ai/chapter_preliminaries/probability.html). Read [Naive Bayes Classification](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html).|
+|8      |Oct. 11-15      |Neural Networks. Natural Language Processing. Deep Learning in NLP. | Lab 2 DUE October 13th. Lab 3 Released. |
+|9      |Oct. 18-22      |Deep Learning. No class on Oct. 21. | Continue Lab 3.  |
+|10     |Oct. 25-29      |Deep Learning.                        | Continue Lab 3. |
+|11     |Nov. 1-5        |Unsupervised Learning. No class on Nov. 2. | Lab 3 DUE November 3rd. |
+|12     |Nov. 8-12       |Planning.                         |                            |
 |13     |Nov. 15-19      |Logical AI.                                   |                            |
 |14     |Nov. 22-26      |Thanksgiving break.                           |                            |
 |15     |Nov. 29 - Dec. 3|Future of AI.                                 |                            |
