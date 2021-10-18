@@ -82,7 +82,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |6      |Sep. 27 - Oct. 1|Supervised Learning in Computer Vision. Object Detection. | Activities 10-11. Lab 2 Released. Read sections 7.1-7.3 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook.|
 |7      |Oct. 4-8        |Probability Fundamentals. Bayes Theory.  Neural Networks. | Continue Lab 2. Activity 12. Read section 2.6 from the [Dive into Deep Learning textbook](https://d2l.ai/chapter_preliminaries/probability.html). Read [Naive Bayes Classification](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html).|
 |8      |Oct. 11-15      |Bayes Algorithm. Neural Networks.  Deep Learning. | Activities 13-14.  |
-|9      |Oct. 18-22      |Deep Learning. Natural Language Processing. |  Lab 2 DUE October 20th. Lab 3 Released.  |
+|9      |Oct. 18-22      |Deep Learning. Natural Language Processing. |  Lab 2 DUE October 20th. Lab 3 Released. Activities 15-16.  |
 |10     |Oct. 25-29      |Deep Learning.                        | Continue Lab 3. |
 |11     |Nov. 1-5        |Unsupervised Learning.  | Lab 3 DUE November 3rd. |
 |12     |Nov. 8-12       |Planning.                         | Lab 4 Released. Project Released. |
