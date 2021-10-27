@@ -84,7 +84,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |8      |Oct. 11-15      |Bayes Algorithm. Neural Networks.  Deep Learning. | Activities 13-14.  |
 |9      |Oct. 18-22      |Deep Learning. Natural Language Processing. |  Lab 2 DUE October 20th. Lab 3 Released. Activities 15-17. Read section 4.1. from the [Dive into Deep Learning](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html) book and section 7.5 from the [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.Ch1.html) textbook. |
 |10     |Oct. 25-29      |NLP. Deep Learning.                        | Activities 18-19. Continue Lab 3. |
-|11     |Nov. 1-5        |Algorithm Comparison. Unsupervised Learning.  | Lab 3 Walkthrough. |
+|11     |Nov. 1-5        |Deep Learning. Algorithm Comparison. Unsupervised Learning.  | Lab 3 Walkthrough. |
 |12     |Nov. 8-12       |Planning.                         | Lab 3 DUE November 10th. Lab 4 Released. Project Released. |
 |13     |Nov. 15-19      |Logical AI.                                   | Lab 4 DUE.    |
 |14     |Nov. 22-26      |Thanksgiving break.                           |                            |
