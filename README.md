@@ -120,7 +120,7 @@ All students are required to actively participate during all of the class sessio
 
 #### Conceptual Challenges
 
-At the end of each week (starting with week 2), students will receive one problem, often containing subparts, to solve. These challenge problems are conceptual in nature and do not require any programming.
+At the end of some weeks (starting with week 2), students will receive one problem, often containing subparts, to solve. These challenge problems are conceptual in nature and do not require any programming.
 
 #### Lab assignments
 
