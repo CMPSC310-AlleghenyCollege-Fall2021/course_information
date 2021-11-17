@@ -97,9 +97,9 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Category             |Percentage |Assessment metric|
 |---------------------|-----------|-----------------|
-|Class Activities     |25%        |check mark grade |
+|Class Activities     |30%        |check mark grade |
 |Conceptual Challenges|20%        |check mark grade |
-|Lab Assignments      |35%        |letter grade     |
+|Lab Assignments      |30%        |letter grade     |
 |Course project       |20%        |letter grade     |
 |                     |           |                 |
 |Total                |100%       |                 |
