@@ -86,7 +86,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |10     |Oct. 25-29      |NLP. Deep Learning.                        | Activities 18-19. Continue Lab 3. |
 |11     |Nov. 1-5        |Deep Learning.   | Lab 3 Walkthrough. Activity 20.|
 |12     |Nov. 8-12       |Algorithm Comparison. Applications: Robotics and VR.| Lab 3 DUE November 10th. Activity 21. |
-|13     |Nov. 15-19      | Unsupervised Learning. | Project Released.   | Read [Machine Learning Overview](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb)
+|13     |Nov. 15-19      | Unsupervised Learning. | Project Released.  Read [Machine Learning Overview](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb) |
 |14     |Nov. 22-26      |Thanksgiving break.                           |                            |
 |15     |Nov. 29 - Dec. 3| Planning. Logical AI.                                  |                            |
 |16     |Dec. 6-10       |Future of AI.                                      |                            |
